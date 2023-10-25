@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mccData>
+  <release name="v1.00" date="2016-05-24" hashvalue="bc10ab1b0fbf41c60b34e569d6088a76"></release>
+  <release name="v1.16" date="2016-08-08" hashvalue="d7bc9ff4d4f84ed709cb6cfef10c0b34"></release>
+  <release name="v1.25" date="2016-11-03" hashvalue="8cb0745a0dbcc02b5f0e1af54cee989c"></release>
+  <release name="v1.26.1" date="2016-12-13" hashvalue="8ea9b0b1ae521bf6e12ca6e0106a6966"></release>
+  <release name="v1.36" date="2017-02-21" hashvalue="f04f121ad0f3f6e23df39056db073dc0"></release>
+  <release name="v1.36.1" date="2017-03-07" hashvalue="f04f121ad0f3f6e23df39056db073dc0"></release>
+  <release name="v1.45" date="2017-07-18" hashvalue="24128f9cb849f64b6d43e7cee434cbfe"></release>
+  <release name="v1.55" date="2017-09-06" hashvalue="18cf2a7980e70391d02d7b4a4fa26bd5"></release>
+  <release name="v1.65.1" date="2017-12-19" hashvalue="dad533ed265257e8206fb58f5562015f"></release>
+  <release name="v1.65.2" date="2018-03-28" hashvalue="fc94636cdc7866aaaee232366bc45bde"></release>
+  <release name="v1.75" date="2018-09-25" hashvalue="9982ed5e2bb572438348d288b48766df"></release>
+  <release name="v1.76.0" date="2019-02-07" hashvalue="9b47be9935293db6c9ba8329026260f7"></release>
+  <release name="v1.77.0" date="2019-06-24" hashvalue="955f62444b10876140b83351f1d6ee04"></release>
+  <release name="v1.78.0" date="2019-10-28" hashvalue="198a6374e4c28417a7466a942e0fcfb0"></release>
+  <release name="v1.78.1" date="2020-01-02" hashvalue="d5813e0daff449880b428d16f76d9b71"></release>
+  <release name="v1.79.0" date="2020-02-12" hashvalue="f225e58dc86c165de145b83c5a3d439b"></release>
+  <release name="v1.80.0" date="2020-04-10" hashvalue="295bb48bc246d91a779f1a2adbf47a1f"></release>
+  <release name="v1.81.0" date="2020-04-10" hashvalue="ea3fec594ec24ddc56c4f4c4ec824cb7"></release>
+  <release name="v1.81.3" date="2020-06-05" hashvalue="a8ec1ce08dbb643dbd4ac2713e35c85f"></release>
+  <release name="v1.81.4" date="2020-07-09" hashvalue="1c8c3a99d8f23189633b5a69240eb7e2"></release>
+  <release name="v1.81.5" date="2020-08-18" hashvalue="45c54c603485b3304761a72a48189e6d"></release>
+  <release name="v1.81.6" date="2020-09-23" hashvalue="9572242aa8cdb27631e864cd843b2dab"></release>
+  <release name="v1.81.7" date="2021-01-22" hashvalue="cd21773f206b8fe14305557407b24069"></release>
+  <release name="v1.81.8" date="2022-04-14" hashvalue="7eca71a72728d747926c445256ad6cf3"></release>
+</mccData>

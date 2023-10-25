@@ -1,0 +1,14 @@
+﻿    #ToolVersion
+    
+    #startup InitPPS, 85
+    #define PPSToolPart #PPSToolPart
+
+    Sub InitPPS
+    #UNLOCKPPS
+        [PPS]
+            #ModuleName
+            #PPSSetting    #Comment
+        [PPSEnd]
+    #LOCKPPS
+    End Sub
+    // Add this code segment to your GCBASIC source program
